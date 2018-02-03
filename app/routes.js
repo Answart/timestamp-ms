@@ -5,6 +5,7 @@ const express       = require('express'),
 
 
 router.get('/',       mainController.showHome);
+router.get('/:query', eventsController.showTimestamp);
 
 
 module.exports = router;
