@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Answart/timestamp-ms/issues"
   },
-  "homepage": "https://github.com/Answart/timestamp-ms#readme"
+  "homepage": "https://github.com/Answart/timestamp-ms#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "moment": "^2.20.1"
+  }
 }
