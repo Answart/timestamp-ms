@@ -1,0 +1,19 @@
+{
+  "name": "timestamp-ms",
+  "version": "1.0.0",
+  "description": "An app that listens for a date param and returns a JSON object of that date in natural language and unix form.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Answart/timestamp-ms.git"
+  },
+  "author": "Alexandra Swart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Answart/timestamp-ms/issues"
+  },
+  "homepage": "https://github.com/Answart/timestamp-ms#readme"
+}
